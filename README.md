@@ -1,57 +1,20 @@
-# Project Name
+# AOAI Batch BYO storage via SAS tokens Private preview
 
-(short, 1-3 sentenced, description of the project)
+<< description >>
 
-## Features
+## Private Preview
 
-This project framework provides the following features:
+1. Azure OpenAI Batch BYO storage is in private preview and is not yet available for public use.  Please treat this repository as confidential and do not share it with anyone outside of your organization.
+2. As a private preview feature, Azure OpenAI Service Batch BYO storage is provided without a service guarantee and should not be used for production workloads. Features may be changed before the final release, and features may not be released at all.  Certain capabilities may not be supported or may have constrained capabilities.  For more information, see [Supplemental Terms of Use for Microsoft Azure Previews](https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/).
 
-* Feature 1
-* Feature 2
-* ...
+## Prerequisites
 
-## Getting Started
+1. Azure subscription with access to Azure OpenAI Service.  Apply [here](https://aka.ms/oai/access) to gain access to Azure OpenAI Service.
+2. Azure OpenAI Batch BYO storage private preview access allowlisted on your Azure subscription. Contact your Microsoft representative to gain access to the private preview.
+3. Azure OpenAI resource in a supported region for your model of choice.
+    * You must have API key access enabled for the Azure OpenAI Service. API key access is enabled by default for new Azure OpenAI resources.
+4. Python version>=3.8 (If you use Notebooks in Azure ML workspace, please use the "Python 3.8 - AzureML" kernel.)
 
-### Prerequisites
+## Contact
 
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [repository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+<sethu.raman@microsoft.com>
