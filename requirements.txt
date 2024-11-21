@@ -1,6 +1,5 @@
 ipython
 jupyter
-openai==1.35.5
 httpx
 requests
 azure-storage-blob 
