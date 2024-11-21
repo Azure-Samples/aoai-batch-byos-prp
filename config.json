@@ -8,6 +8,8 @@
     "azure_blob_account_name": "YOUR_AZURE_BLOB_ACCOUNT_NAME",
     "input_container": "input-container",
     "input_file_name": "input-file-sas.jsonl",
+    "input_container_sas": "YOUR_INPUT_CONTAINER_SAS",
     "output_container": "output-container",
-    "output_folder_name": "output-folder"
+    "output_folder_name": "output-folder",
+    "output_container_sas": "YOUR_OUTPUT_CONTAINER_SAS"
 }
